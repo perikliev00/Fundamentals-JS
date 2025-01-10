@@ -29,7 +29,7 @@ What I’ve Learned
 
 6. Object-Oriented Programming (OOP)
 
-    By creating a Dog class and simulating object-oriented behaviors, I learned the basic principles of OOP in JavaScript. This includes defining classes, creating objects, and using methods to interact with object data.
+    By creating a class and simulating object-oriented behaviors, I learned the basic principles of OOP in JavaScript. This includes defining classes, creating objects, and using methods to interact with object data.
 
 7. Project Structure and Code Organization
 
